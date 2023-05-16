@@ -1,6 +1,6 @@
-# DCGANs
-## The goal is to generate new faces based on different datasets using a Deep Convolutional Generative Adversarial Network (DCGAN) for educational purposes. 
-### Author: Mohammad Ali Balaj
+# SRGAN
+## The goal is to generate high resolution images based on different datasets, using a Super Resolution Generative Adversarial Network (SRGAN) for educational purposes.
+### Author: Amna Shahbaz
 
 
 
